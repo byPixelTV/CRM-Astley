@@ -10,8 +10,8 @@
 
 <h1 align="center">What do you need to use this Skript?</h1>
 - ❓ **Skript, Skcrew, SkBee, Skript-Reflect, SkRayFall, a working MySQL Database (ore more for more gamemodes)**
-- ❓ *A Skript to implement this**
+- ❓ **A Skript to implement this**
 - ❓ **A working Cloud System like CloudNet, SimpleCloud or something else**
 
 <h1 align="center">Thanks to:</h1>
-- ❤️ **[SkyDinse.net](https://www.skydinse.net)https://www.skydinse.net where I got this idea**
+- ❤️ **https://www.skydinse.net where I got this idea**
