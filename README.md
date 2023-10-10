@@ -1,4 +1,4 @@
-![grafik](https://github.com/byPixelTV/CRM-Astley/assets/113579672/d91a5348-1807-45fe-8e25-bcee572cd9ba)<h1 align="center">Cloud Round Manager</h1>
+<h1 align="center">Cloud Round Manager</h1>
 <h3 align="center">Made with Skript, made for Skript! MySQL Skript Minigame Round Manager!</h3>
 
 <h1 align="center">About the Project</h1>
